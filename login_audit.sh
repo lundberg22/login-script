@@ -9,4 +9,6 @@ whoami | tee -a "$LOGG_FIL"   # användare
 hostname | tee -a "$LOGG_FIL" # datornamn
 echo "" | tee -a "$LOGG_FIL"
 uptime | tee -a "$LOGG_FIL"   # hur länge systemet vairt igång
-
+echo "" | tee -a "$LOGG_FIL"
+echo "Disk (df -h):" | tee -a "$LOGG_FIL"
+df -h | tee -a "$LOGG_FIL"
