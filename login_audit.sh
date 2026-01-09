@@ -1,16 +1,11 @@
-
-
-
 #!/bin/bash
 
-# simpelt inlogg script
-# visar grundläggande info om systemet
+# enkelt inloggscript
+LOGG_FIL="login_logg.txt"
 
-echo "Inloggningskontroll"
-echo "-------------------"
-
-date          # Visar datom och tid
-whoami        # Visar vilken användare som är inloggad
-hostname      # Visar datorns namn
+#echo "inloggningskontroll" | tee "$LOGG_FIL"
+date | tee -a "$LOGG_FIL"     # datum och tid
+whoami | tee -a "$LOGG_FIL"   # användare
+hostname | tee -a "$LOGG_FIL" # datornamn
 
 
