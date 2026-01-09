@@ -23,3 +23,25 @@ tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
 tmpfs           3.9G  1.7M  3.9G   1% /tmp
 tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
 tmpfs           795M  112K  795M   1% /run/user/1000
+Fri  9 Jan 02:09:25 CET 2026
+jacob
+kalistudent
+
+ 02:09:25 up  1:43,  1 user,  load average: 0.22, 0.43, 0.55
+
+Disk (df -h):
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M 1008K  794M   1% /run
+/dev/sda1        28G   15G   12G  56% /
+tmpfs           3.9G  4.0K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  1.9M  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  112K  795M   1% /run/user/1000
+
+Minne (Free -h):
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       2.3Gi       4.6Gi        31Mi       1.1Gi       5.4Gi
+Swap:          1.6Gi          0B       1.6Gi
