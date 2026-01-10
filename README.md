@@ -35,3 +35,8 @@ login_logg.txt
 se screenshot: 
 `screenshots/readme1.png`
 `screenshots/readme2.png`
+
+
+# flödesschema 
+se flödesschema `flödesschema.png`
+
