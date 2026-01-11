@@ -44,6 +44,9 @@ cd ~/login_script
 3. loggfilen heter 
 login_logg.txt
 
+4. läsa loggfilen:
+cat_login_log.txt
+
 
 
 
