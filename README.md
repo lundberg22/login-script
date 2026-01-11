@@ -22,6 +22,10 @@ kommandon som: date, whoami, hostname, uptime, df, free, ip, tee
 
 ## Skärmdumpar / Demo
 
+# flödesschema 
+se flödesschema `flödesschema.png`
+
+
 Nedan visas skärmdumpar från när scriptet körs.
 
 ### Exempel 1 – Script i körning
@@ -47,8 +51,6 @@ login_logg.txt
 
 
 
-# flödesschema 
-se flödesschema `flödesschema.png`
 
 #
 projektet är testat på kali linux
