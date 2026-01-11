@@ -40,3 +40,5 @@ se screenshot:
 # flödesschema 
 se flödesschema `flödesschema.png`
 
+#
+projektet är testat på kali linux
