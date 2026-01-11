@@ -36,17 +36,19 @@ login_logg.txt
 
 
 
-
-# screenshot
-## Script 2 
-![Script running - exempel 1](screenshots/readme1.png)
-
-## Script 1
-![Script running - exempel 2](screenshots/readme2.png)
-
-
 # flödesschema 
 se flödesschema `flödesschema.png`
 
 #
 projektet är testat på kali linux
+
+## Skärmdumpar / Demo
+
+Nedan visas skärmdumpar från när scriptet körs.
+
+### Exempel 1 – Script i körning
+![Script körs – exempel 1](screenshots/readme1.png)
+
+### Exempel 2 – Script i körning
+![Script körs – exempel 2](screenshots/readme2.png)
+
