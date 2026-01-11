@@ -20,6 +20,17 @@ linux os
 bash
 kommandon som: date, whoami, hostname, uptime, df, free, ip, tee
 
+## Skärmdumpar / Demo
+
+Nedan visas skärmdumpar från när scriptet körs.
+
+### Exempel 1 – Script i körning
+![Script körs – exempel 1](screenshots/readme1.png)
+
+### Exempel 2 – Script i körning
+![Script körs – exempel 2](screenshots/readme2.png)
+
+
 # hur man kör:
 1. gå till mappen
  ```bash
@@ -42,13 +53,4 @@ se flödesschema `flödesschema.png`
 #
 projektet är testat på kali linux
 
-## Skärmdumpar / Demo
-
-Nedan visas skärmdumpar från när scriptet körs.
-
-### Exempel 1 – Script i körning
-![Script körs – exempel 1](screenshots/readme1.png)
-
-### Exempel 2 – Script i körning
-![Script körs – exempel 2](screenshots/readme2.png)
 
