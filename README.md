@@ -31,10 +31,18 @@ cd ~/login_script
 3. loggfilen heter 
 login_logg.txt
 
-# screenshot / demo
-se screenshot: 
-`screenshots/readme1.png`
-`screenshots/readme2.png`
+
+
+
+
+
+
+# screenshot
+## Script 2 
+![Script running - exempel 1](screenshots/readme1.png)
+
+## Script 1
+![Script running - exempel 2](screenshots/readme2.png)
 
 
 # flödesschema 
