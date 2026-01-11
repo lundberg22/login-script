@@ -22,8 +22,6 @@ kommandon som: date, whoami, hostname, uptime, df, free, ip, tee
 
 ## Skärmdumpar / Demo
 
-# flödesschema 
-se flödesschema `flödesschema.png`
 
 
 Nedan visas skärmdumpar från när scriptet körs.
