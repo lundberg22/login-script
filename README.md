@@ -53,7 +53,6 @@ cat_login_log.txt
 
 
 
-#
-projektet är testat på kali linux
+
 
 
