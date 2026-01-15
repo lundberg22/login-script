@@ -1,24 +1,29 @@
-# inloggscrpt (nätverk & system)
+# inloggscript (nätverk & system)
 
 # Syfte
-vill göra ett enkelt script som samlar system och nätväksinformation och sedan sparar det i loggfil, bra för tex felsökning.
+Syftet med detta projekt är att skapa ett enkelt Bash-script som samlar in system och nätverksinformation och sparar den i en loggfil, vilket är användbart för överblick, felsökning och jämförelse över tid.
+
 
 # vad scriptet gör
-Det loggar:
-datum och tid
-användare samt datornamn
-uptime
-disk (df -h)
-minne (free -h)
-nätverksinfo (ip a)
-routing (ip route)
+Scriptet loggar följande information:
+- Datum och tid
+- Inloggad användare
+- Datornamn (hostname)
+- Uptime
+- Diskanvändning (df -h)
+- Minnesanvändning (free -h)
+- Nätverksinformation (ip a)
+- Routing / default gateway (ip route)
 
-samtliga skirvs till terminal och loggfil
+All information skrivs både till terminalen och till en loggfil.
 
-# systemkrav
-linux os
-bash
-kommandon som: date, whoami, hostname, uptime, df, free, ip, tee
+
+# systemkrav:
+- Linux-baserat operativsystem
+- Bash
+- Följande kommandon tillgängliga: date, whoami, hostname, uptime, df, free, ip, tee
+
+
 
 ## Skärmdumpar / Demo
 
